@@ -1,0 +1,12 @@
+# Site settings
+title: Steve Richey
+email: contact@steverichey.com
+description: > # this means to ignore newlines until "baseurl:"
+  Steve Richey's official blog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://steverichey.com" # the base hostname & protocol for your site
+twitter_username: thesteverichey
+github_username:  steverichey
+
+# Build settings
+markdown: kramdown
