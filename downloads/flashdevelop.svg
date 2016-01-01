@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="128px" height="128px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g1" x1="50%" y1="0%" x2="50%" y2="100%">
+<stop offset="5%" stop-color="#7a7a7a" />
+<stop offset="95%" stop-color="#525252" />
+</linearGradient>
+<linearGradient id="g2" x1="50%" y1="0%" x2="50%" y2="100%">
+<stop offset="5%" stop-color="#626262" />
+<stop offset="95%" stop-color="#323232" />
+</linearGradient>
+<linearGradient id="g3" x1="50%" y1="0%" x2="50%" y2="100%">
+<stop offset="5%" stop-color="#404040" />
+<stop offset="95%" stop-color="#111111" />
+</linearGradient>
+<linearGradient id="g4" x1="50%" y1="0%" x2="50%" y2="100%">
+<stop offset="66%" stop-color="#fefefe" />
+<stop offset="95%" stop-color="#d6d6d7" />
+</linearGradient>
+<linearGradient id="g5" x1="50%" y1="0%" x2="50%" y2="100%">
+<stop offset="5%" stop-color="#f1a113" />
+<stop offset="95%" stop-color="#ea8b1d" />
+</linearGradient>
+</defs>
+<path d="M 0 0 H 128 V 128 H 0" fill="url(#g1)"/>
+<path d="M 12 0 H 116 V 12 H 128 V 116 H 116 V 128 H 12 V 116 H 0 V 12 H 12" fill="url(#g2)"/>
+<path d="M 12 12 H 116 V 116 H 12" fill="url(#g3)"/>
+<path d="M 24 68 H 30 c 2 0 4 -2 4 -4 V 38 c 0 -9 8 -18 16 -18 H 58 V 34 H 53 c -2.5 0 -5 2.5 -5 5 V 65 c 0 5.5 -3.5 11 -7 11 3.5 0 7 5.5 7 11 V 108 H 34 V 88 c 0 -2 -2 -4 -4 -4 H 24" fill="url(#g4)"/>
+<path d="M 63 44 H 88 L 106 75 88 108 H 63 V 93 H 79 L 89 75 79 59 H 63" fill="url(#g5)"/>
+</svg>

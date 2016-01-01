@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="18px" height="18px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path d="M 6,1 h 12 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h 3 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v -1 h 1 v -2 h 1 v -2 h 1 v -2 h -6 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 z" fill="#000000" />
+<path d="M 5,0 h 12 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h 3 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v -1 h 1 v -2 h 1 v -2 h 1 v -2 h -6 v -2 h 1 v -2 h 1 v -2 h 1 v -2 h 1 z" fill="#ffffff" />
+<path d="M 6,2 h 7 v 1 h -1 v 1 h -1 v 1 h -1 v 2 h 2 v 1 h -1 v 1 h -1 v 1 h -1 v -2 h -5 v -2 h 1 v -2 h 1 z" fill="#2F7F6F" />
+<path d="	M 4,7 h 1 v 1 h -1 z
+			M 5,6 h 1 v 1 h -1 z
+			M 6,7 h 1 v 1 h -1 z
+			M 7,6 h 1 v 1 h -1 z
+			M 8,7 h 1 v 1 h -1 z
+			M 9,6 h 1 v 1 h -1 z
+			M 9,8 h 1 v -1 h 1 v 2 h -1 v 1 h -1 z" fill="#ccff00" />
+</svg>

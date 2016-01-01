@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1" viewBox="0 0 8 8">
+<!-- Left leg -->
+<path d="M 2,8 H 0 V 0 L 3,3 V 6 z" fill="#faa61a" />
+<!-- Right leg -->
+<path d="M 6,0 H 8 V 8 L 5,5 V 2 z" fill="#faa61a" />
+<!-- Cross piece -->
+<path d="M 0,0 H 2 L 8,6 V 8 H 6 L 0,2 z" fill="#fdb813" />
+<!-- Left leg accent -->
+<path d="M 3,5 V 6 L 2,8 z" fill="#f15922" />
+<!-- Right leg accent -->
+<path d="M 5,3 V 2 L 6,0 z" fill="#ffcb08" />
+<!-- Cross piece left accent -->
+<path d="M 0,0 2,0 3.5,1.5 z" fill="#fff200" />
+<!-- Cross piece right accent -->
+<path d="M 8,8 6,8 4.5,6.5 z" fill="#f36f21" />
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="128px" height="128px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path d="M 16 16 H 112 V 112 H 16" fill="#00b922"/>
+<path d="M 0 0 H 32 L 64 16 L 16 64 L 0 32" fill="#ffc132"/>
+<path d="M 16 64 L 64 112 L 32 128 H 0 V 96" fill="#f5274e"/>
+<path d="M 64 16 L 96 0 H 128 V 32 L 112 64" fill="#3b41ff"/>
+<path d="M 112 64 L 128 96 V 128 H 96 L 64 112" fill="#04cdfb"/>
+</svg>
