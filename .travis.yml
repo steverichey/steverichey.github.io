@@ -3,11 +3,12 @@ rvm:
 - 2.1
 before_script:
 - chmod +x ./scripts/build.sh
+- chmod +x ./scripts/deploy.sh
 script:
-- ./scripts/build.sh
-- ./scripts/deploy.sh
+- "./scripts/build.sh"
+- "./scripts/deploy.sh"
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - secure: hSvDqJPmE+TBOQv+6dJD2KoP9O267Q81GiiMHQVY3GVj8dtR2PSn5qS226biw3HDkrTNAdQvGFPMJwRagyXERA9PTjgBOtFlGDFQAwHrX2eCwwNT1EbKzszGmYytwWt4HSlhKnoZ9Gh31ZeVmEKd6pvJLT9lGCAozcCx7TDd47M=
-  - secure: euAm+vwL0o71ijvWZ5VyB1FN7KIj4aAMCFQI2eaOS2uHpfwQk1IYhmVP7fKP09mmGBK+UHOyholmk1LG2qYqxYt56gYhY8VPJgl6tEL7bPHU2WsAENu9ok06+pXFrerHD5ECn+TJmfyXZ66Visra6kDx5TuVy/MsjJRMwPo79dM=
+  - secure: Ncjl3rDGUkrYj20ETrgVcJ7gZprr5M/Z6cEiZ/GdG9lG2W2KkWtggbLZKhEg0EjsW8nntbJWYOQCv8U0q3+2FxTruCDyTX9QvV1LRMAjHGHF+jToThn1uuJ0J3EotecpLC+34KPj4+YUpmRR3LnB/5e0qFHiJWHyuXF/sUyTa8E=
