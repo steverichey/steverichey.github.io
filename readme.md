@@ -1,4 +1,4 @@
-# [steverichey.github.io](http://steverichey.github.io)
+# [steverichey.github.io](http://steverichey.github.io) [![Build Status](https://travis-ci.org/steverichey/steverichey.github.io.svg?branch=master)](https://travis-ci.org/steverichey/steverichey.github.io)
 
 An upcoming revision to my site.
 
