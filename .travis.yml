@@ -6,7 +6,7 @@ before_script:
 script:
 - ./build.sh
 after_success:
-- "curl --ftp-create-dirs -T uploadfilename -u $FTP_USER:$FTP_PW ftp://kristinrichey.com/"
+- glynn
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true

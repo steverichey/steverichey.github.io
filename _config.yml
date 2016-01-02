@@ -11,3 +11,13 @@ exclude: [vendor]
 
 # Build settings
 markdown: kramdown
+
+ftp_host: 'kristinrichey.com'
+ftp_dir: '/'
+ftp_passive: false
+
+# optional
+ftp_port: 21
+ftp_username: $FTP_USER
+ftp_password: $FTP_PW
+ftp_secure: true
