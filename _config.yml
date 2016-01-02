@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://steverichey.com" # the base hostname & protocol for your site
 twitter_username: thesteverichey
 github_username:  steverichey
-exclude: [vendor]
+exclude: [vendor, Gemfile, Gemfile.lock, scripts]
 
 # Build settings
 markdown: kramdown
